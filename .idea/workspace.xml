@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6b0edc7-c14c-49a2-8b45-8274f27e8447" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Ulv4l4QabRYSuQSDNvF5pKXCgP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6b0edc7-c14c-49a2-8b45-8274f27e8447" name="Default Changelist" comment="" />
+      <created>1575943806620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575943806620</updated>
+      <workItem from="1575943813930" duration="8127000" />
+      <workItem from="1576074403586" duration="1961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="135" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575956720825">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="388" y="135" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.689@0.0.1280.689" timestamp="1575956720825" />
+    <state x="424" y="101" key="FileChooserDialogImpl" timestamp="1575965995532">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="424" y="101" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1575965995532" />
+    <state x="302" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1575956510136">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="302" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1575956510136" />
+  </component>
+</project>
