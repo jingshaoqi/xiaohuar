@@ -1,4 +1,14 @@
 # -*- coding: utf-8 -*-
+'''
+程序运行说明
+在xiaohua目录下运行
+scrapy crawl xiaohua
+会失败
+而再spiders目录下运行
+scrapy runspider xiaohuar.py
+则会成功
+稍后来改正在pycharm下也能运行
+'''
 import scrapy
 from xiaohua.items import XiaohuaItem
 
